@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.rosehulman.rosspa.exam1byphilipross.MainActivity">
+    <item
+        android:id="@+id/action_edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:orderInCategory="90"
+        android:title="@string/edit_importance"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_reset"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:orderInCategory="100"
+        android:title="@string/reset"
+        app:showAsAction="always" />
+</menu>

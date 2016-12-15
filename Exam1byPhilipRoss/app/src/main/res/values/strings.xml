@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exam 1 by Philip Ross</string>
+    <string name="action_settings">Settings</string>
+    <string name="gift_label">Gift</string>
+    <string name="edit_gift_hint">What will you give?</string>
+    <string name="recipient_label">Recipient</string>
+    <string name="edit_recipient_hint">Who is this gift for?</string>
+    <string name="enter_text">ENTER</string>
+    <string name="shopping_list_label">Shopping List</string>
+    <string name="edit_importance">Edit Importance</string>
+    <string name="reset">Reset Shopping List</string>
+    <string name="dialog_title">Choose a recipient to toggle importance</string>
+</resources>
